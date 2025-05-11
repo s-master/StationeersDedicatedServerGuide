@@ -1,4 +1,4 @@
-````markdown
+
 # Stationeers Dedicated Server Anleitung
 
 Alle Anweisungen funktionieren sowohl unter Windows- als auch unter Linux-Servern. Im Folgenden verwende ich die Linux-Syntax. In den meisten Fällen kannst du einfach `./rocketstation_DedicatedServer.x86_64` anstelle von `.\rocketstation_DedicatedServer.exe` verwenden; der Rest bleibt gleich.
